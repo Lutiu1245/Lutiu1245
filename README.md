@@ -10,5 +10,4 @@
 
 - 🌱 Atualmente aprendendo sobre Linguagem C
 - 🤔 Procurando ajuda sobre programação no geral
-- 📫 contato: contact.henrique02@gmail.com
 - 😄 Pronome: ele/dele
