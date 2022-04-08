@@ -8,6 +8,6 @@
   </div>
 
 
-- 🌱 Atualmente aprendendo sobre Linguagem C
+- 🌱 Atualmente aprendendo sobre JavaScript
 - 🤔 Procurando ajuda sobre programação no geral
 - 😄 Pronome: ele/dele
