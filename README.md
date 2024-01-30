@@ -10,7 +10,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre mim:
 - 🏦 Sou desenvolvedor Back-End
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📖 Atualmente estou lendo **Hábitos atômicos** de James Clear
+- 📖 Atualmente estou lendo **Hábitos atômicos** de James Clear.
 - 💬 Fale comigo sobre futebol e java.
 - ⚡ Curiosidade: Sou viciado em Football Manager, jogo desde 2014.
 - 🧑‍💻 Uso diariamente :
