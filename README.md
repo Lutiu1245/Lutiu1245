@@ -16,7 +16,7 @@ public class Main {
         String languagesAndTools = "Java, Angular, Spring Boot, TypeScript, Docker, Git, SQL";
         String educationalInstitution = "FAM";
 
-       System.out.println("## Hello! I am " + name +
+       System.out.println("Hello! I am " + name +
             "\nI am " + age + " years old." +
             "\nI work with the following technologies: " + languagesAndTools +
             "\nI studied at the institution: " + educationalInstitution);
