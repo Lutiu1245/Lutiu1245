@@ -8,13 +8,21 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre mim:
-- 🏦 Sou desenvolvedor Back-End
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📖 Atualmente estou lendo **Hábitos atômicos** de James Clear.
-- 💬 Fale comigo sobre futebol e java.
-- ⚡ Curiosidade: Sou viciado em Football Manager, jogo desde 2014.
-- 🧑‍💻 Uso diariamente :
+```java
+public class Main {
+    public static void main(String[] args) {
+        String name = "Luan Henrique";
+        int age = 23;
+        String languagesAndTools = "Java, Angular, Spring Boot, TypeScript, Docker, Git, SQL";
+        String educationalInstitution = "FAM";
 
+       System.out.println("## Hello! I am " + name +
+            "\nI am " + age + " years old." +
+            "\nI work with the following technologies: " + languagesAndTools +
+            "\nI studied at the institution: " + educationalInstitution);
+    }
+}
+```
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="AngularJS" width="55" height="55"/>
