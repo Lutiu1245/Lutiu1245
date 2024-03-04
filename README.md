@@ -6,27 +6,8 @@
 <a href="https://www.linkedin.com/in/luan-henrique-backend/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Sobre mim:
-```java
-public class Main {
-    public static void main(String[] args) {
-        String name = "Luan Henrique";
-        int age = 23;
-        String languagesAndTools = "Java, Angular, Spring Boot, TypeScript, Docker, Git, SQL";
-        String educationalInstitution = "FAM";
-
-       System.out.println("Hello! I am " + name +
-            "\nI am " + age + " years old." +
-            "\nI work with the following technologies: " + languagesAndTools +
-            "\nI studied at the institution: " + educationalInstitution);
-    }
-}
 ```
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="AngularJS" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="45" height="55"/>
